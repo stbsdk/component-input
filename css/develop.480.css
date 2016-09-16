@@ -1,6 +1,13 @@
-/* spa-component-input: release */
-.component.input {
+.stb-component-input {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     width: 200px;
     height: 30px;
     font-size: 20px;
-    color: #000; }
+    color: #000;
+    outline: 1px dashed #005000;
+    outline-offset: -1px; }
+    .stb-component-input.hidden {
+        display: none; }
+    .stb-component-input.focus {
+        outline: 1px dashed red; }
