@@ -1,9 +1,10 @@
 Input component
 ===============
 
-[![Build Status](https://img.shields.io/travis/stbsdk/component-input.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-input)
-[![NPM version](https://img.shields.io/npm/v/stb-component-input.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-input)
-[![Dependencies Status](https://img.shields.io/david/stbsdk/component-input.svg?style=flat-square)](https://david-dm.org/stbsdk/component-input)
+[![build status](https://img.shields.io/travis/stbsdk/component-input.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-input)
+[![npm version](https://img.shields.io/npm/v/stb-component-input.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-input)
+[![dependencies status](https://img.shields.io/david/stbsdk/component-input.svg?style=flat-square)](https://david-dm.org/stbsdk/component-input)
+[![devDependencies status](https://img.shields.io/david/dev/stbsdk/component-input.svg?style=flat-square)](https://david-dm.org/stbsdk/component-input?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
